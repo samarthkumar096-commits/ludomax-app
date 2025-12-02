@@ -1,0 +1,9 @@
+{
+  "appId": "com.ludomax.app",
+  "appName": "LudoMax",
+  "webDir": "frontend/build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
